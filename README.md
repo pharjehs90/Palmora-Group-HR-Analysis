@@ -14,5 +14,14 @@ Power BI software was used for the ETL and Visualization of the cleaned data
   Actions taken on the data include;
   -  Data Extraction and Transformation, which entails data cleaning and formatting
   -  Thereafter, visualization of cleaned data
-
-
+    
+### Exploratory Questions
+Some of the questions answered in this visualization include;
+  *  gender distribution in the organization according to regions and departments 
+  *  insights on ratings based on gender 
+  *  analysis of the company’s salary structure. 
+  *  distribution of employees grouped by a band of $10,000. For example: 
+  *  no of employees that fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc. 
+  *  amount to be paid as a bonus to individual employees 
+  *  total amount to be paid to individual employees (salary inclusive of bonus) 
+  *  total amount to be paid out per region and company-wide
