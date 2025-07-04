@@ -11,5 +11,8 @@ The data was sourced from the Chief Human Resource Officer (CHRO) of The Palmori
 
 ### Tool Used
 Power BI software was used for the ETL and Visualization of the cleaned data
+  Actions taken on the data include;
+  -  Data Extraction and Transformation, which entails data cleaning and formatting
+  -  Thereafter, visualization of cleaned data
 
 
