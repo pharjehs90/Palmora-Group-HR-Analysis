@@ -1,2 +1,7 @@
 # Palmora-Group-HR-Analysis
-The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues bordering on gender inequality in its 3 regions. This  doesn’t look good for the can only spiral downwards,  revealing other issues like the gender pay gap, amongst other possible issues. 
+This repository contains visualized data from Palmoria Group, a manufacturing company based in Nigeria, It reveals issues like the gender pay gap, amongst other possible challenges. 
+
+## Palmora Group HR Gender Issue Overview
+The main focus of this analysis is to;
+* Analyse the company data and generate insights that the Palmoria management team would need to address gender-related issues within the organization and its regions
+* Visualise the analysis using appropriate charts
