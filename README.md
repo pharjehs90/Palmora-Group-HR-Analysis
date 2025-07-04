@@ -25,3 +25,5 @@ Some of the questions answered in this visualization include;
   *  amount to be paid as a bonus to individual employees 
   *  total amount to be paid to individual employees (salary inclusive of bonus) 
   *  total amount to be paid out per region and company-wide
+
+### My Visualized file
