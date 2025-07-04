@@ -27,4 +27,3 @@ Some of the questions answered in this visualization include;
   *  total amount to be paid out per region and company-wide
 
 ### My Visualized file
-
