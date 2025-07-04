@@ -30,4 +30,7 @@ Some of the questions answered in this visualization include;
 
 [Palmoria file](https://github.com/pharjehs90/Palmora-Group-HR-Analysis/blob/main/Palmoria%20Final.pbix) 
 
+#### Contact
+For feedback or questions
 
+Email: fajewonyomi.akinwumi@gmail.com
